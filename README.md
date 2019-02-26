@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 자기소개
 
-You can use the [editor on GitHub](https://github.com/kennesis/kennesis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+유승민입니다. 프론트엔드 개발자입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 경력
 
-### Markdown
+1. 페이체크 모바일 앱 개발자 2016년 6월 - 2016년 11월 | 5개월
+2. 웹 프론트엔드 개발 2017년 11월 - 2018년 7월 | 8개월
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 학력
 
-```markdown
-Syntax highlighted code block
+- 분당정보산업고등학교 2009년 졸업
 
-# Header 1
-## Header 2
-### Header 3
+## 프로젝트
 
-- Bulleted
-- List
+- 페이체크 2017년 11월 - 2018년 7월 | 모바일 근태관리 서비스 Android, iOS 앱 클라이언트 개발.
+- 게임런쳐 2018년 8월 - 2018년 9월 React Native 기반 오프라인 게임 컨텐츠 공급 앱 클라이언트 개발
 
-1. Numbered
-2. List
+## 기술목록
 
-**Bold** and _Italic_ and `Code` text
+- ECMAScript 6
+- React.js
+- React Native
+- Firebase
+- Node.js
+- MongoDB
 
-[Link](url) and ![Image](src)
-```
+## 자격증
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kennesis/kennesis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- OPIC (Novice High)
+2017년 6월 취득
